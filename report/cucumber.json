@@ -1,0 +1,1215 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 9,
+        "name": "Check for the Area of a Circle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-circle;check-for-the-area-of-a-circle;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 234958834,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "12.0 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "12.0",
+                  "offset": 0
+                }
+              ],
+              "location": "init.by_the_user(Double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7520278,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "area of Circle is equal to 452.38934",
+            "match": {
+              "arguments": [
+                {
+                  "val": "452.38934",
+                  "offset": 27
+                }
+              ],
+              "location": "init.area_of_Circle_is_equal_to(Double)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@AreaOfCircle"
+          }
+        ]
+      },
+      {
+        "line": 10,
+        "name": "Check for the Area of a Circle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-circle;check-for-the-area-of-a-circle;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1620565,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "300.0 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "300.0",
+                  "offset": 0
+                }
+              ],
+              "location": "init.by_the_user(Double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 534160,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "area of Circle is equal to 282743.3388230814",
+            "match": {
+              "arguments": [
+                {
+                  "val": "282743.3388230814",
+                  "offset": 27
+                }
+              ],
+              "location": "init.area_of_Circle_is_equal_to(Double)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@AreaOfCircle"
+          }
+        ]
+      },
+      {
+        "line": 11,
+        "name": "Check for the Area of a Circle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-circle;check-for-the-area-of-a-circle;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1392337,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "212.0 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "212.0",
+                  "offset": 0
+                }
+              ],
+              "location": "init.by_the_user(Double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 187665,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "area of Circle is equal to 141195.74022293",
+            "match": {
+              "arguments": [
+                {
+                  "val": "141195.74022293",
+                  "offset": 27
+                }
+              ],
+              "location": "init.area_of_Circle_is_equal_to(Double)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@AreaOfCircle"
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "Check for the Area of a Circle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-circle;check-for-the-area-of-a-circle;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1342976,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "12.07 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "12.07",
+                  "offset": 0
+                }
+              ],
+              "location": "init.by_the_user(Double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 156388,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "area of Circle is equal to 457.68261157",
+            "match": {
+              "arguments": [
+                {
+                  "val": "457.68261157",
+                  "offset": 27
+                }
+              ],
+              "location": "init.area_of_Circle_is_equal_to(Double)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@AreaOfCircle"
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "Check for the Area of a Circle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-circle;check-for-the-area-of-a-circle;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1431922,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "122.0 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "122.0",
+                  "offset": 0
+                }
+              ],
+              "location": "init.by_the_user(Double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 175936,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "area of Circle is equal to 46759.46505",
+            "match": {
+              "arguments": [
+                {
+                  "val": "46759.46505",
+                  "offset": 27
+                }
+              ],
+              "location": "init.area_of_Circle_is_equal_to(Double)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@AreaOfCircle"
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "Check for the Area of a Circle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-circle;check-for-the-area-of-a-circle;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1229107,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "103.0 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "103.0",
+                  "offset": 0
+                }
+              ],
+              "location": "init.by_the_user(Double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 143192,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "area of Circle is equal to 33329.156",
+            "match": {
+              "arguments": [
+                {
+                  "val": "33329.156",
+                  "offset": 27
+                }
+              ],
+              "location": "init.area_of_Circle_is_equal_to(Double)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@AreaOfCircle"
+          }
+        ]
+      }
+    ],
+    "name": "To test the functionality of an Api for a Circle",
+    "description": "",
+    "id": "to-test-the-functionality-of-an-api-for-a-circle",
+    "keyword": "Feature",
+    "uri": "src/test/resources/org.im.grp/features/serviceCircleIT.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 9,
+        "name": "Check for the Area of a Triangle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-triangle;check-for-the-area-of-a-triangle;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2965495,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "12.0 13.0 14.0 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "12.0",
+                  "offset": 0
+                },
+                {
+                  "val": "13.0",
+                  "offset": 5
+                },
+                {
+                  "val": "14.0",
+                  "offset": 10
+                }
+              ],
+              "location": "init.sidesOfaTriangle(double,double,double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 229694,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "area of triangle is equal to 72.30",
+            "match": {
+              "arguments": [
+                {
+                  "val": "72.30",
+                  "offset": 29
+                }
+              ],
+              "location": "init.area_of_triangle_is_equal_to(double)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@AreaOfTriangle"
+          }
+        ]
+      },
+      {
+        "line": 10,
+        "name": "Check for the Area of a Triangle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-triangle;check-for-the-area-of-a-triangle;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 9090016,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "300.0 400.0 600.003 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "300.0",
+                  "offset": 0
+                },
+                {
+                  "val": "400.0",
+                  "offset": 6
+                },
+                {
+                  "val": "600.003",
+                  "offset": 12
+                }
+              ],
+              "location": "init.sidesOfaTriangle(double,double,double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 170560,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "area of triangle is equal to 53326.358389",
+            "match": {
+              "arguments": [
+                {
+                  "val": "53326.358389",
+                  "offset": 29
+                }
+              ],
+              "location": "init.area_of_triangle_is_equal_to(double)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@AreaOfTriangle"
+          }
+        ]
+      },
+      {
+        "line": 11,
+        "name": "Check for the Area of a Triangle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-triangle;check-for-the-area-of-a-triangle;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1976834,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "212.0 131.0 450.0 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "212.0",
+                  "offset": 0
+                },
+                {
+                  "val": "131.0",
+                  "offset": 6
+                },
+                {
+                  "val": "450.0",
+                  "offset": 12
+                }
+              ],
+              "location": "init.sidesOfaTriangle(double,double,double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 138794,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "area of triangle is equal to 0.0",
+            "match": {
+              "arguments": [
+                {
+                  "val": "0.0",
+                  "offset": 29
+                }
+              ],
+              "location": "init.area_of_triangle_is_equal_to(double)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@AreaOfTriangle"
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "Check for the Area of a Triangle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-triangle;check-for-the-area-of-a-triangle;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2767568,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "12.07 130.05 140.0 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "12.07",
+                  "offset": 0
+                },
+                {
+                  "val": "130.05",
+                  "offset": 6
+                },
+                {
+                  "val": "140.0",
+                  "offset": 13
+                }
+              ],
+              "location": "init.sidesOfaTriangle(double,double,double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 191086,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "area of triangle is equal to 460.8149",
+            "match": {
+              "arguments": [
+                {
+                  "val": "460.8149",
+                  "offset": 29
+                }
+              ],
+              "location": "init.area_of_triangle_is_equal_to(double)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@AreaOfTriangle"
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "Check for the Area of a Triangle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-triangle;check-for-the-area-of-a-triangle;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2473364,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "122.0 133.0 134.0 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "122.0",
+                  "offset": 0
+                },
+                {
+                  "val": "133.0",
+                  "offset": 6
+                },
+                {
+                  "val": "134.0",
+                  "offset": 12
+                }
+              ],
+              "location": "init.sidesOfaTriangle(double,double,double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 216010,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "area of triangle is equal to 7243.4263",
+            "match": {
+              "arguments": [
+                {
+                  "val": "7243.4263",
+                  "offset": 29
+                }
+              ],
+              "location": "init.area_of_triangle_is_equal_to(double)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@AreaOfTriangle"
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "Check for the Area of a Triangle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-triangle;check-for-the-area-of-a-triangle;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2088748,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "103.0 140.0 149.0 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "103.0",
+                  "offset": 0
+                },
+                {
+                  "val": "140.0",
+                  "offset": 6
+                },
+                {
+                  "val": "149.0",
+                  "offset": 12
+                }
+              ],
+              "location": "init.sidesOfaTriangle(double,double,double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 163229,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "area of triangle is equal to 6926.4778",
+            "match": {
+              "arguments": [
+                {
+                  "val": "6926.4778",
+                  "offset": 29
+                }
+              ],
+              "location": "init.area_of_triangle_is_equal_to(double)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@AreaOfTriangle"
+          }
+        ]
+      },
+      {
+        "line": 24,
+        "name": "Check for the valid sides of Triangle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-triangle;check-for-the-valid-sides-of-triangle;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3395072,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "12.0 13.0 14.0 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "12.0",
+                  "offset": 0
+                },
+                {
+                  "val": "13.0",
+                  "offset": 5
+                },
+                {
+                  "val": "14.0",
+                  "offset": 10
+                }
+              ],
+              "location": "init.sidesOfaTriangle(double,double,double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 245822,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "validate the triangle has \"Valid\" sides",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Valid\"",
+                  "offset": 26
+                }
+              ],
+              "location": "init.isValidTriangle(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@validityOfSides"
+          }
+        ]
+      },
+      {
+        "line": 25,
+        "name": "Check for the valid sides of Triangle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-triangle;check-for-the-valid-sides-of-triangle;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1364480,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "1.0 13.0 14.0 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1.0",
+                  "offset": 0
+                },
+                {
+                  "val": "13.0",
+                  "offset": 4
+                },
+                {
+                  "val": "14.0",
+                  "offset": 9
+                }
+              ],
+              "location": "init.sidesOfaTriangle(double,double,double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 157364,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "validate the triangle has \"InValid\" sides",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"InValid\"",
+                  "offset": 26
+                }
+              ],
+              "location": "init.isValidTriangle(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@validityOfSides"
+          }
+        ]
+      },
+      {
+        "line": 26,
+        "name": "Check for the valid sides of Triangle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-triangle;check-for-the-valid-sides-of-triangle;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1334179,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "12.0 1.0 14.0 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "12.0",
+                  "offset": 0
+                },
+                {
+                  "val": "1.0",
+                  "offset": 5
+                },
+                {
+                  "val": "14.0",
+                  "offset": 9
+                }
+              ],
+              "location": "init.sidesOfaTriangle(double,double,double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 166162,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "validate the triangle has \"InValid\" sides",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"InValid\"",
+                  "offset": 26
+                }
+              ],
+              "location": "init.isValidTriangle(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@validityOfSides"
+          }
+        ]
+      },
+      {
+        "line": 27,
+        "name": "Check for the valid sides of Triangle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-triangle;check-for-the-valid-sides-of-triangle;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2470921,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "12.0 13.0 1.0 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "12.0",
+                  "offset": 0
+                },
+                {
+                  "val": "13.0",
+                  "offset": 5
+                },
+                {
+                  "val": "1.0",
+                  "offset": 10
+                }
+              ],
+              "location": "init.sidesOfaTriangle(double,double,double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 160786,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "validate the triangle has \"InValid\" sides",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"InValid\"",
+                  "offset": 26
+                }
+              ],
+              "location": "init.isValidTriangle(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@validityOfSides"
+          }
+        ]
+      },
+      {
+        "line": 28,
+        "name": "Check for the valid sides of Triangle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-triangle;check-for-the-valid-sides-of-triangle;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2082396,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "12.0 13.0 14.0 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "12.0",
+                  "offset": 0
+                },
+                {
+                  "val": "13.0",
+                  "offset": 5
+                },
+                {
+                  "val": "14.0",
+                  "offset": 10
+                }
+              ],
+              "location": "init.sidesOfaTriangle(double,double,double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 149545,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "validate the triangle has \"Valid\" sides",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Valid\"",
+                  "offset": 26
+                }
+              ],
+              "location": "init.isValidTriangle(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@validityOfSides"
+          }
+        ]
+      },
+      {
+        "line": 29,
+        "name": "Check for the valid sides of Triangle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-triangle;check-for-the-valid-sides-of-triangle;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1474440,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "0.0 13.0 14.0 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "0.0",
+                  "offset": 0
+                },
+                {
+                  "val": "13.0",
+                  "offset": 4
+                },
+                {
+                  "val": "14.0",
+                  "offset": 9
+                }
+              ],
+              "location": "init.sidesOfaTriangle(double,double,double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 138794,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "validate the triangle has \"InValid\" sides",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"InValid\"",
+                  "offset": 26
+                }
+              ],
+              "location": "init.isValidTriangle(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@validityOfSides"
+          }
+        ]
+      },
+      {
+        "line": 30,
+        "name": "Check for the valid sides of Triangle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-triangle;check-for-the-valid-sides-of-triangle;;8",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2246114,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "12.0 0.0 14.0 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "12.0",
+                  "offset": 0
+                },
+                {
+                  "val": "0.0",
+                  "offset": 5
+                },
+                {
+                  "val": "14.0",
+                  "offset": 9
+                }
+              ],
+              "location": "init.sidesOfaTriangle(double,double,double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 193530,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "validate the triangle has \"InValid\" sides",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"InValid\"",
+                  "offset": 26
+                }
+              ],
+              "location": "init.isValidTriangle(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@validityOfSides"
+          }
+        ]
+      },
+      {
+        "line": 31,
+        "name": "Check for the valid sides of Triangle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-triangle;check-for-the-valid-sides-of-triangle;;9",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1439253,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "12.0 13.0 100000.0 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "12.0",
+                  "offset": 0
+                },
+                {
+                  "val": "13.0",
+                  "offset": 5
+                },
+                {
+                  "val": "100000.0",
+                  "offset": 10
+                }
+              ],
+              "location": "init.sidesOfaTriangle(double,double,double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 141237,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "validate the triangle has \"InValid\" sides",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"InValid\"",
+                  "offset": 26
+                }
+              ],
+              "location": "init.isValidTriangle(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@validityOfSides"
+          }
+        ]
+      },
+      {
+        "line": 32,
+        "name": "Check for the valid sides of Triangle",
+        "description": "",
+        "id": "to-test-the-functionality-of-an-api-for-a-triangle;check-for-the-valid-sides-of-triangle;;10",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1850259,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "1.0 2.0 3.0 by the user",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1.0",
+                  "offset": 0
+                },
+                {
+                  "val": "2.0",
+                  "offset": 4
+                },
+                {
+                  "val": "3.0",
+                  "offset": 8
+                }
+              ],
+              "location": "init.sidesOfaTriangle(double,double,double)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 167139,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "validate the triangle has \"InValid\" sides",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"InValid\"",
+                  "offset": 26
+                }
+              ],
+              "location": "init.isValidTriangle(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@validityOfSides"
+          }
+        ]
+      }
+    ],
+    "name": "To test the functionality of an Api for a Triangle",
+    "description": "",
+    "id": "to-test-the-functionality-of-an-api-for-a-triangle",
+    "keyword": "Feature",
+    "uri": "src/test/resources/org.im.grp/features/serviceTriangleIT.feature",
+    "tags": []
+  }
+]
