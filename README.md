@@ -40,8 +40,10 @@ The project set up is pretty straight forward , please follow the below steps:
 Assuming user is familiar with usage and has software such as git CLI ,java 8 and maven and it environment setup ,
  - [x] clone project using git cli on your local machine.
  - [x] observe the the existing jar present in /lib/* or you can import the fresh jar from the [captial-assignment](https://github.com/HITimran/captial-assignment)
- - [x] on root directory of your project ,you run the command *mvn clean install* in cmd.This will run unit test along with some cases in .feature files. 
- - [x] if required , you can also check out the Cucumber *reports* .The reports are store in ./report/cucumber-reports/cucumber-html-reports/overview-features.html and default reports are /report/index.htmlgenerated in the home directory \report\testCoverage-reports\index.html
+ - [x] on root directory of your project ,you run the command *mvn clean install* in cmd.This will run unit test along with cases in .feature files. 
+ - [x] if required , you can also check out the Cucumber *reports* . The reports are store in ./report/cucumber-reports/cucumber-html-reports/overview-features.html and default reports are /report/index.html generated in the home directory /report/testCoverage-reports/index.html
 
 ## Reporting
-- The reports are store in ./report/cucumber-reports/cucumber-html-reports/overview-features.html and default reports are /report/index.htmlreports
+ The reports are store in local directory
+- ./report/cucumber-reports/cucumber-html-reports/overview-features.html
+- ./report/index.htmlreports
