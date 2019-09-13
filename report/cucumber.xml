@@ -1,106 +1,106 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="21" time="0.309562">
-<testcase classname="To test the functionality of an Api for a Circle" name="Check for the Area of a Circle" time="0.252868">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="21" time="0.276402">
+<testcase classname="To test the functionality of an Api for a Circle" name="Check for the Area of a Circle" time="0.20843">
 <system-out><![CDATA[Given 12.0 by the user......................................................passed
 Then area of Circle is equal to 452.38934...................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To test the functionality of an Api for a Circle" name="Check for the Area of a Circle 2" time="0.002534">
+<testcase classname="To test the functionality of an Api for a Circle" name="Check for the Area of a Circle 2" time="0.004659">
 <system-out><![CDATA[Given 300.0 by the user.....................................................passed
 Then area of Circle is equal to 282743.3388230814...........................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To test the functionality of an Api for a Circle" name="Check for the Area of a Circle 3" time="0.001973">
+<testcase classname="To test the functionality of an Api for a Circle" name="Check for the Area of a Circle 3" time="0.002087">
 <system-out><![CDATA[Given 212.0 by the user.....................................................passed
 Then area of Circle is equal to 141195.74022293.............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To test the functionality of an Api for a Circle" name="Check for the Area of a Circle 4" time="0.001773">
+<testcase classname="To test the functionality of an Api for a Circle" name="Check for the Area of a Circle 4" time="0.002348">
 <system-out><![CDATA[Given 12.07 by the user.....................................................passed
 Then area of Circle is equal to 457.68261157................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To test the functionality of an Api for a Circle" name="Check for the Area of a Circle 5" time="0.001907">
+<testcase classname="To test the functionality of an Api for a Circle" name="Check for the Area of a Circle 5" time="0.006646">
 <system-out><![CDATA[Given 122.0 by the user.....................................................passed
 Then area of Circle is equal to 46759.46505.................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To test the functionality of an Api for a Circle" name="Check for the Area of a Circle 6" time="0.001622">
+<testcase classname="To test the functionality of an Api for a Circle" name="Check for the Area of a Circle 6" time="0.004009">
 <system-out><![CDATA[Given 103.0 by the user.....................................................passed
 Then area of Circle is equal to 33329.156...................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the Area of a Triangle" time="0.003481">
+<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the Area of a Triangle" time="0.003744">
 <system-out><![CDATA[Given 12.0 13.0 14.0 by the user............................................passed
 Then area of triangle is equal to 72.30.....................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the Area of a Triangle 2" time="0.009538">
+<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the Area of a Triangle 2" time="0.009424">
 <system-out><![CDATA[Given 300.0 400.0 600.003 by the user.......................................passed
 Then area of triangle is equal to 53326.358389..............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the Area of a Triangle 3" time="0.002538">
+<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the Area of a Triangle 3" time="0.004486">
 <system-out><![CDATA[Given 212.0 131.0 450.0 by the user.........................................passed
 Then area of triangle is equal to 0.0.......................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the Area of a Triangle 4" time="0.003358">
+<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the Area of a Triangle 4" time="0.003232">
 <system-out><![CDATA[Given 12.07 130.05 140.0 by the user........................................passed
 Then area of triangle is equal to 460.8149..................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the Area of a Triangle 5" time="0.003319">
+<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the Area of a Triangle 5" time="0.003205">
 <system-out><![CDATA[Given 122.0 133.0 134.0 by the user.........................................passed
 Then area of triangle is equal to 7243.4263.................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the Area of a Triangle 6" time="0.002513">
+<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the Area of a Triangle 6" time="0.003019">
 <system-out><![CDATA[Given 103.0 140.0 149.0 by the user.........................................passed
 Then area of triangle is equal to 6926.4778.................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the valid sides of Triangle" time="0.003902">
+<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the valid sides of Triangle" time="0.003338">
 <system-out><![CDATA[Given 12.0 13.0 14.0 by the user............................................passed
 Then validate the triangle has "Valid" sides................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the valid sides of Triangle 2" time="0.001802">
+<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the valid sides of Triangle 2" time="0.002087">
 <system-out><![CDATA[Given 1.0 13.0 14.0 by the user.............................................passed
 Then validate the triangle has "InValid" sides..............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the valid sides of Triangle 3" time="0.001758">
+<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the valid sides of Triangle 3" time="0.001951">
 <system-out><![CDATA[Given 12.0 1.0 14.0 by the user.............................................passed
 Then validate the triangle has "InValid" sides..............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the valid sides of Triangle 4" time="0.003087">
+<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the valid sides of Triangle 4" time="0.00239">
 <system-out><![CDATA[Given 12.0 13.0 1.0 by the user.............................................passed
 Then validate the triangle has "InValid" sides..............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the valid sides of Triangle 5" time="0.002512">
+<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the valid sides of Triangle 5" time="0.002493">
 <system-out><![CDATA[Given 12.0 13.0 14.0 by the user............................................passed
 Then validate the triangle has "Valid" sides................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the valid sides of Triangle 6" time="0.002064">
+<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the valid sides of Triangle 6" time="0.001717">
 <system-out><![CDATA[Given 0.0 13.0 14.0 by the user.............................................passed
 Then validate the triangle has "InValid" sides..............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the valid sides of Triangle 7" time="0.002818">
+<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the valid sides of Triangle 7" time="0.00359">
 <system-out><![CDATA[Given 12.0 0.0 14.0 by the user.............................................passed
 Then validate the triangle has "InValid" sides..............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the valid sides of Triangle 8" time="0.001865">
+<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the valid sides of Triangle 8" time="0.001727">
 <system-out><![CDATA[Given 12.0 13.0 100000.0 by the user........................................passed
 Then validate the triangle has "InValid" sides..............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the valid sides of Triangle 9" time="0.00233">
+<testcase classname="To test the functionality of an Api for a Triangle" name="Check for the valid sides of Triangle 9" time="0.00182">
 <system-out><![CDATA[Given 1.0 2.0 3.0 by the user...............................................passed
 Then validate the triangle has "InValid" sides..............................passed
 ]]></system-out>
